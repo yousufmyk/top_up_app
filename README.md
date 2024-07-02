@@ -36,8 +36,8 @@ final user = User(balance: 3000, isVerified: false);
    cd top_up
 2. Install dependencies:
     ```bash
-flutter pub get
+    flutter pub get
 
 3. Run the app:
     ```bash
-flutter run
+    flutter run
